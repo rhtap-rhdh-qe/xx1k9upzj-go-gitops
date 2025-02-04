@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xx1k9upzj-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xx1k9upzj-go
